@@ -1,0 +1,1 @@
+# Automatiser la creation d'un repo github avec initialisation d'un projet selon votre choix de technologie
